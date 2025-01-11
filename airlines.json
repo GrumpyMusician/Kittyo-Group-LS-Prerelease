@@ -1,0 +1,923 @@
+{
+    "name": "Great British Air/Kittyo/LAC",
+    "color": "red",
+    "bgcolor": "darkblue",
+    "aircrafts": {
+        "1": {
+            "name": "Piper J3 Cub",
+            "liveries": [
+            ],
+            "labels": [
+                "Texture"
+            ]
+        },
+        "2": {
+            "name": "Cessna 172 Skyhawk",
+            "liveries": [
+            ],
+            "labels": [
+                "Texture"
+            ]
+        },
+        "3": {
+            "name": "Alphajet PAF",
+            "liveries": [
+            ],
+            "labels": [
+                "Fuselage texture",
+                "Wing texture"
+            ]
+        },
+        "4": {
+            "name": "Boeing b737-700",
+            "liveries": [
+                {
+                    "name": "Tech Air Trial",
+                    "texture": [
+                        "/models/aircraft/premium/737_700/specular.jpg",
+                        "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/TAI737-700.png"
+                    ]
+                },
+                {
+                    "name": "Air Hanada",
+                    "texture": [
+                        "/models/aircraft/premium/737_700/specular.jpg",
+                        "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/AHR7377.png"
+                    ]
+                }
+            ],
+            "labels": [
+                "Specular shader",
+                "Texture"
+            ]
+        },
+        "6": {
+            "name": "de Havilland Canada DHC6 Twin Otter",
+            "liveries": [
+            ],
+            "labels": [
+                "Texture",
+                "Texture Left",
+                "Texture Bottom",
+                "Texture Right"
+            ]
+        },
+        "8": {
+            "name": "Pitts Special S1",
+            "liveries": [
+            ],
+            "labels": [
+                "Fuselage texture",
+                "Wing texture",
+                "Gear texture"
+            ]
+        },
+        "9": {
+            "name": "Eurocopter EC135",
+            "liveries": [
+            ],
+            "labels": [
+                "Normal map",
+                "Specular shader",
+                "Texture"
+            ]
+        },
+        "10": {
+            "name": "Airbus a380-800",
+            "liveries": [
+                {
+                    "name": "GBA Test",
+                    "texture": [
+                        "/models/aircraft/premium/a380/specular.jpg",
+                        "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/GBATrial2A380-800.png"
+                    ]
+                },
+                {
+                    "name": "Kittyo Airways",
+                    "texture": [
+                        "/models/aircraft/premium/a380/specular.jpg",
+                        "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/KittyoA380.png"
+                    ]
+                },
+                {
+                    "name": "Air Hanada",
+                    "texture":[
+                        "/models/aircraft/premium/a380/specular.jpg",
+                        "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/AHA3882.png"
+                    ]
+                }
+            ],
+            "labels": [
+                "Specular shader",
+                "Texture"
+            ]
+        },
+        "11": {
+            "name": "Alisport Silent 2 Electro",
+            "liveries": [
+            ],
+            "labels": [
+                "Normal map",
+                "Specular shader",
+                "Texture"
+            ]
+        },
+        "12": {
+            "name": "Pilatus PC-7 Mk-I",
+            "liveries": [
+            ],
+            "labels": [
+                "Normal map",
+                "Specular shader",
+                "Texture",
+                "Propwash"
+            ]
+        },
+        "13":{
+            "name": "de Havilland Canada DHC2 Beaver",
+            "liveries": [
+            ],
+            "labels": [
+                "Texture"
+            ]
+        },
+        "14": {
+            "name": "Colomban MC-15 Cri-cri",
+            "liveries": [
+            ],
+            "labels": [
+                "Texture",
+                "Texture Interior"
+            ]
+        },
+        "15": {
+            "name": "Lokheed P38 Lightning",
+            "liveries": [
+            ],
+            "labels": [
+                "Specular shader",
+                "Texture"
+            ]
+        },
+        "18": {
+            "name": "Sukhoi Su-35 Flanker",
+            "liveries": [
+            ],
+            "labels": [
+                "Texture"
+            ]
+        },
+        "20": {
+            "name": "Aerospatiale France - British Aircraft Corporation Concorde",
+            "liveries": [
+                {
+                    "name": "TAA",
+                    "texture": [
+                        "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/TAAConcord.png"
+                    ]
+                },
+                {
+                    "name": "LAC",
+                    "texture": [
+                        "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/LAC_Concorde.png"
+                    ]
+                },
+                {
+                    "name": "Old TAA GBA",
+                    "texture": ["https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/TAAGBABOAC.png"]
+                }
+            ],
+            "labels": [
+                "Texture"
+            ]
+        },
+        "21": {
+            "name": "Zlin Z-50",
+            "liveries": [
+            ],
+            "labels": [
+                "Texture"
+            ]
+        },
+        "22": {
+            "name": "Cessna 152",
+            "liveries": [
+            ],
+            "labels": [
+                "Texture"
+            ]
+        },
+        "26": {
+            "name": "Antonov An-140",
+            "liveries": [
+            ],
+            "labels": [
+                "Texture"
+            ]
+        },
+        "31": {
+            "name": "Potez 25",
+            "liveries": [
+            ],
+            "labels": [
+                "Normal map",
+                "Specular shader",
+                "Texture Left",
+                "Texture Right"
+            ]
+        },
+        "40": {
+            "name": "Evektor Sportstar",
+            "liveries": [
+            ],
+            "labels": [
+                "Texture"
+            ]
+        },
+        "50": {
+            "name": "Paraglider",
+            "liveries": [
+            ],
+            "labels": [
+                "Texture"
+            ]
+        },
+        "51": {
+            "name": "Major Tom (hot air balloon)",
+            "liveries": [
+            ],
+            "labels": [
+                "Texture"
+            ]
+        },
+        "53": {
+            "name": "Goat Airchair",
+            "liveries": [
+            ],
+            "labels": [
+                "Texture"
+            ]
+        },
+        "102": {
+            "name": "Citroen 2CV",
+            "liveries": [
+            ],
+            "labels": [
+                "Normal map",
+                "Specular shader",
+                "Texture"
+            ]
+        },
+        "237": {
+            "name": "Boeing b767-300ER",
+            "liveries": [
+                {
+                    "name": "Trans Australian",
+                    "texture": [
+                        "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/TAS767-300ER.png"
+                    ]
+                },
+                {
+                    "name": "Kittyo Airways",
+                    "texture": [
+                        "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/Kittyo_767-300ER.png"
+                    ]
+                },
+                {
+                    "name": "Great British Air",
+                    "texture": [
+                        "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/GBA767Update.png"
+                    ]
+                },
+                {
+                    "name": "Air Alps",
+                    "texture": [
+                        "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/AAP767.png"
+                    ]
+                }
+            ],
+            "labels": [
+                "Texture"
+            ]
+        },
+        "238": {
+            "name": "Boeing b757-200",
+            "liveries": [
+                {
+                    "name": "TAA",
+                    "texture": [
+                        "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/TAA_7572.png"
+                    ]
+                }
+            ],
+            "labels": [
+                "Texture"
+            ]
+        },
+        "239": {
+            "name": "Airbus a350-900",
+            "liveries": [
+            ],
+            "labels": [
+                "Texture"
+            ]
+        },
+        "2879": {
+            "name": "Airbus a319-100",
+            "liveries": [
+                {
+                    "name": "LAC",
+                    "texture": [
+                        "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/LACA319-100.png"
+                    ]
+                },
+                {
+                    "name": "HappiCat OG",
+                    "texture": [
+                        "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/HCAA319.png"
+                    ]
+                },
+                {
+                    "name": "AirOne",
+                    "texture": [
+                        "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/AROA319.png"
+                    ]
+                },
+                {
+                    "name": "Kittyo Airways",
+                    "texture": [
+                        "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/KTYA3191.png"
+                    ]
+                },
+                {
+                    "name": "HCA Airlines Painter Edition",
+                    "texture": [
+                        "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/HCAOG1A319.png"
+                    ]
+                }
+            ],
+            "labels": [
+                "Texture"
+            ]
+        },
+        "2418": {
+            "name": "ATR 72-600",
+            "liveries": [
+                {
+                    "name": "Kittyo Airways",
+                    "texture": [
+                        "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/Kittyo_Regional_ATR.png"
+                    ]
+                },
+                {
+                    "name": "Air Hanada",
+                    "texture": [
+                        "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/HANA72.png"
+                    ]
+                }
+            ],
+            "labels": [
+                "Texture"
+            ]
+        },
+        "2973": {
+            "name": "Airbus a350-1000",
+            "liveries": [
+            ],
+            "labels": [
+                "Texture"
+            ]
+        },
+        "3575": {
+            "name": "Boeing b787-9",
+            "liveries": [
+                {
+                    "name": "Great British Air ",
+                    "texture": [
+                        "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/GBA787.png"
+                    ]
+                },
+                {
+                    "name": "Sky Airways",
+                    "texture": [
+                        "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/SKY787.jpeg"
+                    ]
+                },
+                {
+                    "name": "Kittyo Airways",
+                    "texture": [
+                        "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/KTY787New.png"
+                    ]
+                }
+            ],
+            "labels": [
+                "Texture"
+            ]
+        },
+        "3534": {
+            "name": "Airbus a320-214",
+            "liveries": [
+            ],
+            "labels": [
+                "Texture"
+            ]
+        },
+        "2899": {
+            "name": "Airbus a220-300",
+            "liveries": [
+                {
+                    "name": "Great British Air",
+                    "texture": [
+                        "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/GBAA220v2.png"
+                    ]
+                }
+            ],
+            "labels": [
+                "Texture"
+            ]
+        },
+        "2871": {
+            "name": "Airbus a320neo",
+            "liveries": [
+                {
+                    "name": "Great British Air",
+                    "texture": [
+                        "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/GBA-A320neo.png"
+                    ]
+                },
+                {
+                    "name": "Sky Airways",
+                    "texture": [
+                        "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/SKYA320new.png"
+                    ]
+                },
+                {
+                    "name": "Kittyo Airways Old",
+                    "texture": [
+                        "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/KTYA320.png"
+                    ]
+                },
+                {
+                    "name": "Kittyo Airways",
+                    "texture": [
+                        "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/KTYa320new.png"
+                    ]
+                },
+                {
+                    "name": "Project Kitty",
+                    "texture": [
+                        "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/PRJKTYA320ne.png"
+                    ]
+                },
+                {
+                    "name": "Air One",
+                    "texture": [
+                        "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/AROA32n.png"
+                    ]
+                },
+                {
+                    "name": "Wind Jet",
+                    "texture": [
+                        "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/WDJA320ne.png"
+                    ]
+                },
+                {
+                    "name": "Livingston",
+                    "texture": [
+                        "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/LIV32n.png"
+                    ]
+                }
+            ],
+            "labels": [
+                "Texture"
+            ]
+        },
+        "2769": {
+            "name": "Boeing b737-MAX8",
+            "liveries": [
+            ],
+            "labels": [
+                "Texture"
+            ]
+        },
+        "3180": {
+            "name": "Boeing b787-10",
+            "liveries": [
+                {
+                    "name": "Sky Airways",
+                    "texture": [
+                        "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/SKY787.jpeg"
+                    ]
+                }
+            ],
+            "labels": [
+                "Texture"
+            ]
+        },
+        "3292": {
+            "name": "Boeing p8I Neptune",
+            "liveries": [
+            ],
+            "labels": [
+                "Texture"
+            ]
+        },
+        "3307": {
+            "name": "Bombardier CRJ700",
+            "liveries": [
+            ],
+            "labels": [
+                "Fuselage texture",
+                "Wing texture",
+                "Engine texture"
+            ]
+        },
+        "3054": {
+            "name": "Boeing b737-800",
+            "liveries": [
+                {
+                    "name": "Kittyo Airways",
+                    "texture": [
+                        "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/KAY737-800.png"
+                    ]
+                }
+            ],
+            "labels": [
+                "Texture"
+            ]
+        },
+        "4017": {
+            "name": "Embraer ERJ 145LR",
+            "liveries": [
+            ],
+            "labels": [
+                "Texture"
+            ]
+        },
+        "4140": {
+            "name": "Boeing b737-200",
+            "liveries": [
+                {
+                    "name": "TAA",
+                    "texture": [
+                        "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/TAA732.png"
+                    ]
+                }
+            ],
+            "labels": [
+                "Texture"
+            ]
+        },
+        "247": {
+            "name": "Bombardier Dash8-q400",
+            "liveries": [
+                {
+                    "name": "GBA Test",
+                    "texture": [
+                        "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/refs/heads/main/liveries/GBA-Dash8.png"
+                    ]
+                }
+            ],
+            "labels": [
+                "Texture"
+            ]
+        },
+        "4398": {
+            "name": "Britten-Norman BN2 Islander",
+            "liveries": [
+            ],
+            "labels": [
+                "Texture"
+            ]
+        },
+        "2892": {
+            "name": "SAAB 340",
+            "liveries": [
+                {
+                    "name": "Kittyo Airways",
+                    "texture": [
+                        "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/KTYSaab1.png"
+                    ]
+                },
+                {
+                    "name": "Air Hanada",
+                    "texture": [
+                        "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/HANS340.png"
+                    ]
+                }
+            ],
+            "labels": [
+                "Texture"
+            ]
+        },
+        "16": {
+            "name": "Douglas DC-3",
+            "liveries": [
+            ],
+            "labels": [
+                "Specular shader",
+                "Texture"
+            ]
+        },
+        "2706": {
+            "name": "Bombardier CRJ200",
+            "liveries": [
+            ],
+            "labels": [
+                "Texture"
+            ]
+        },
+        "3341": {
+            "name": "Embraer ERJ 170",
+            "liveries": [
+            ],
+            "labels": [
+                "Fuselage texture",
+                "Wing texture",
+                "Engine texture"
+            ]
+        },
+        "24": {
+            "name": "Airbus a350-900",
+            "liveries": [
+                {
+                    "name": "Kittyo Airways",
+                    "texture": [
+                        "/models/aircraft/premium/a350/specular.jpg",
+                        "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/KTYA359.png"
+                    ]
+                },
+                {
+                    "name": "Great British Air",
+                    "texture": [
+                        "/models/aircraft/premium/a350/specular.jpg",
+                        "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/GBA35.png"
+                    ]
+                },
+                {
+                    "name": "Air Hanada",
+                    "texture": [
+                        "/models/aircraft/premium/a350/specular.jpg",
+                        "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/AHA359.png"
+                    ]
+                },
+                {
+                    "name": "Lightning Airways",
+                    "texture": [
+                        "/models/aircraft/premium/a350/specular.jpg",
+                        "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/LAYA350.png"
+                    ]
+                }
+            ],
+            "labels": [
+                "Specular shader",
+                "Texture"
+            ]
+        },
+        "4631": {
+            "name": "Airbus a330-900neo",
+            "liveries": [
+                {
+                    "name": "Great British Air",
+                    "texture": [
+                        "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/GBAA330n!4.png"
+                    ]
+                },
+                {
+                    "name": "Air One",
+                    "texture": [
+                        "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/AROA330neo.png"
+                    ]
+                },
+                {
+                    "name": "Kalitus",
+                    "texture": [
+                        "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/KLA330N.png"
+                    ]
+                }
+            ],
+            "labels": [
+                "Texture"
+            ]
+        },
+        "4646": {
+            "name": "Airbus a321neo",
+            "liveries": [
+                {
+                    "name": "Kittyo Airways",
+                    "texture": [
+                        "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/KTY321n.png"
+                    ]
+                }
+            ],
+            "labels": [
+                "Texture"
+            ]
+        },
+        "7": {
+            "name": "General Dynamics F16 Fighting Falcon",
+            "liveries": [
+            ],
+            "labels": [
+                "Texture"
+            ]
+        },
+        "4745": {
+            "name": "Boeing b757-300WL",
+            "liveries": [
+            ],
+            "labels": [
+                "Texture"
+            ]
+        },
+        "4743": {
+            "name": "Boeing 757-300",
+            "liveries": [
+            ],
+            "labels": [
+                "Texture"
+            ]
+        },
+        "25": {
+            "name": "Boeing b777-300ER",
+            "liveries": [
+                {
+                    "name": "Great British Air",
+                    "texture": [
+                        "/models/aircraft/premium/777_300/specular_0.jpg",
+                        "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/GBA7774k.png"
+                    ]
+                },
+                {
+                    "name": "Air Hanada Cargo",
+                    "texture": [
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-300er/speculars/ersf.png",
+                        "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/HAN77F.png"]
+                },
+                {
+                    "name": "Air Hanada Skyteam",
+                    "texture": [
+                         "/models/aircraft/premium/777_300/specular_0.jpg",
+                        "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/HAN77S.png"
+                    ]
+                },
+                {
+                    "name": "Kittyo Airways",
+                    "texture": [
+                        "/models/aircraft/premium/777_300/specular_0.jpg",
+                        "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/HCA773.png"]
+                },
+                {
+                    "name": "Royal Air French",
+                    "texture" : [
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-300er/speculars/ersf.png",
+                        "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/RAF77ERF.png"]
+                }
+            ],
+            "labels": [
+                "Specular shader",
+                "Texture"
+            ]
+        },
+        "4596": {
+            "name": "Vans RV6",
+            "liveries": [
+            ],
+            "labels": [
+                "Texture"
+            ]
+        },
+        "23": {
+            "name": "Piper PA-28 161 Warrior II",
+            "liveries": [
+            ],
+            "labels": [
+                "Normal map",
+                "Specular shader",
+                "Texture"
+            ]
+        },
+        "3289": {
+            "name": "Dornier do228-200",
+            "liveries": [
+            ],
+            "labels": [
+                "Texture"
+            ]
+        },
+        "4764": {
+            "name": "Boeing b767-400ER",
+            "liveries": [
+            ],
+            "labels": [
+                "Texture"
+            ]
+        },
+        "5061": {
+            "name": "Sonex-B kit",
+            "liveries": [
+            ],
+            "labels": [
+                "Normal map",
+                "Specular shader",
+                "Texture",
+                "Propwash"
+            ]
+        },
+        "5073": {
+            "name": "Bombardier Learjet45",
+            "liveries": [
+            ],
+            "labels": [
+                "Texture"
+            ]
+        },
+        "5": {
+            "name": "Embraer Phenom100",
+            "liveries": [
+            ],
+            "labels": [
+                "Normal map",
+                "Specular shader",
+                "Texture"
+            ]
+        },
+        "5086": {
+            "name": "Airbus a321-211",
+            "liveries": [
+            ],
+            "labels": [
+                "Texture"
+            ]
+        },
+        "2951": {
+            "name": "Airbus a340-300",
+            "liveries": [
+            ],
+            "labels": [
+                "Texture"
+            ]
+        },
+        "2856": {
+            "name": "Airbus a330-200",
+            "liveries": [
+            ],
+            "labels": [
+                "Texture"
+            ]
+        },
+        "27": {
+            "name": "McDonell Douglas - Boeing F/A-18F Super Hornet",
+            "liveries": [
+            ],
+            "labels": [
+                "Texture"
+            ]
+        },
+        "5156": {
+            "name": "Airbus a318-112",
+            "liveries": [
+            ],
+            "labels": [
+                "Texture"
+            ]
+        },
+        "2864": {
+            "name": "Leonardo - AugustaWestland AW609",
+            "liveries": [
+            ],
+            "labels": [
+                "Texture"
+            ]
+            
+        },
+        "2852": {
+            "name": "Cameron R-650 Rozière Balloon",
+            "liveries": [
+            ],
+            "labels": [
+                "Texture"
+            ]
+            
+        },
+        "5038": {
+            "name": "Lokheed L1011-1 TriStar",
+            "liveries": [
+            ],
+            "labels": [
+                "Texture",
+                "Metallic Roughness shader",
+                "Texture for tail light"
+            ]
+        },
+        "5193": {
+            "name": "Boeing b747-8I",
+            "liveries": [
+            ],
+            "labels": [
+                "Texture"
+            ]
+            
+        }
+    }
+}

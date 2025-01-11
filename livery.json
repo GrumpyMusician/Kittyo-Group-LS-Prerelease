@@ -16,7 +16,7 @@
                 },
                 {
                     "name": "Air Hanada",
-                    "texture": ["https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/HAN7377.png"]
+                    "texture": ["https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/AHR7377.png"]
                 }
             ]
         },
@@ -42,7 +42,7 @@
                 },
                 {
                     "name": "Air Hanada",
-                    "texture":["https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/HANA388N.png"]
+                    "texture":["https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/AHA3882.png"]
                 }
             ]
         },
@@ -137,6 +137,12 @@
                     "texture": [
                         "/models/aircraft/premium/777_300/specular_0.jpg",
                         "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/HCA773.png"]
+                },
+                {
+                    "name": "Royal Air French",
+                    "texture" : [
+                        "/models/aircraft/premium/777_300/specular_0.jpg",
+                        "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/RAF77ERF.png"]
                 }
             ]
         },
@@ -523,6 +529,10 @@
                 {
                     "name": "Kalitus",
                     "texture": ["https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/KLA330N.png"]
+                },
+                {
+                    "name": "Aerofuse",
+                    "texture": ["https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/refs/heads/main/liveries/AerofuseA339.png"]
                 }
             ]
         },
@@ -541,6 +551,31 @@
                     ]
                 }
             ]
-        }
+        },
+        "247": {
+            "index": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "parts": [
+                0,
+                12,
+                20,
+                21
+            ],
+            "liveries": [
+                {
+                    "name": "GBA Test",
+                    "texture": [
+                        "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/refs/heads/main/liveries/GBA-Dash8.png",
+                        "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/refs/heads/main/liveries/GBA-Dash8.png",
+                        "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/refs/heads/main/liveries/GBA-Dash8.png",
+                        "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/refs/heads/main/liveries/GBA-Dash8.png"
+                    ]
+                }
+            ]
+         }
     }
 }
